@@ -1,0 +1,18 @@
+.btn-orange{
+    background-color: rgb(255, 153, 51);
+    border-radius: 5px;
+    border: none;
+    height: 20px;
+}
+
+.w-27{
+    width: 27%;
+}
+
+.bg-violet{
+    background-color: violet;
+}
+
+.h-125{
+    height: 125px;
+}
